@@ -1,0 +1,23 @@
+{
+  "name": "randomname",
+  "version": "1.0.0",
+  "description": "Generates a random name in different languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloCabreraR/randomName.git"
+  },
+  "keywords": [
+    "random",
+    "name"
+  ],
+  "author": "PabloCabreraR",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/PabloCabreraR/randomName/issues"
+  },
+  "homepage": "https://github.com/PabloCabreraR/randomName#readme"
+}
